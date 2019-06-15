@@ -1,4 +1,6 @@
-solution:
-        netstat -tn 2>/dev/null
-
 This command will give the local and foreign address of the client connected to your hotspot.
+
+Process:
+        step1: connect different devices to your pc's hotspot
+        step2: open terminal and write command    netstat -tn 2>/dev/null
+        
