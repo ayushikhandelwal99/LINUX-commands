@@ -1,0 +1,4 @@
+solution:
+        netstat -tn 2>/dev/null
+
+This command will give the local and foreign address of the client connected to your hotspot.
