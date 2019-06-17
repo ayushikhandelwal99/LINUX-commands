@@ -1,0 +1,4 @@
+To move history to a file use redirection
+to see history use command    'history'
+and to move history use      history  >file_name
+and to update history in that file use   history  >>file_name
